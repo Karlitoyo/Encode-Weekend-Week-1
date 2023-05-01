@@ -8,7 +8,7 @@
 ### 2. Set Text to "Brave New Hello World" TX hash ###:
 0x59771e1c7f311d26f76d8816e5cc9d1ec699800e78339aee588d9304c3ffa2fd
 
-### 3. Transferred owenership from "0x39638D5dF0478a9E7f23fF5BD631C8729EDE8022" to "0x926AD776E13970aA1019B556740a999834B51FB3" TX hash ###:
+### 3. Transferred owenership from 0x39638D5dF0478a9E7f23fF5BD631C8729EDE8022 to 0x926AD776E13970aA1019B556740a999834B51FB3 TX hash ###:
 0x8b2cee2b8aac51ffce5a90f01629cdb2792097c4cb316cda92188960d53c73b3
 
 ### 4. Transferred ownership back to original owner address ###:
