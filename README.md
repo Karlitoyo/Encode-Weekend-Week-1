@@ -2,17 +2,17 @@
 
 Homework assignment HelloWord.sol
 
-Contract Deployed TX Hash:
-0x89462dd140321f6ce958380f9e66fd56c0106aeaf7cd084e588d0897b1c56bf1
+**Contract Deployed TX Hash**:
+0x756edd4ae985ba6b5144b0804cd0ac67d573387581d81500d92bfe837d34ce69
 
-Set Text to "Brave New Hello World" TX hash:
-0x574aef4a6f10f85da80b7151b943a34f4925ce1aebc920af896bde66afd80d51
+**Set Text to "Brave New Hello World" TX hash**:
+0x59771e1c7f311d26f76d8816e5cc9d1ec699800e78339aee588d9304c3ffa2fd
 
-Transferred owenership from "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4" to "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2" TX hash:
-0x241ad8d3c06c308387ae021c04c7d136a3ceda99f09ea77395919089cbba9f33
+**Transferred owenership from "0x39638D5dF0478a9E7f23fF5BD631C8729EDE8022" to "0x926AD776E13970aA1019B556740a999834B51FB3" TX hash**:
+0x8b2cee2b8aac51ffce5a90f01629cdb2792097c4cb316cda92188960d53c73b3
 
-Transferred ownership back to original owner address:
-0x29e017746f2f0b59d89bfc2ea67fa94660d9aa03635a017f7e32c5794b523d1b
+**Transferred ownership back to original owner address**:
+0x96ef6d5074a59db9653de3e75a320f0a8afea27e4d5b634af4cc0c7f8b652255
 
-Transaction fails when owner is not correct address TX hash:
-0xb9319bdcc4e7e9240a606d938fe0ade31790a48ee5b2efaa1d58d141e8ab6376
+**Transaction fails when owner is not correct address TX hash**:
+0x6f8e6dc986e71f9a942478c5c444c150deafacf3858b2169b11994af3cd766c5
