@@ -1,3 +1,18 @@
 # Encode-Weekend-Week-1
 
 Homework assignment HelloWord.sol
+
+Contract Deployed TX Hash:
+0x89462dd140321f6ce958380f9e66fd56c0106aeaf7cd084e588d0897b1c56bf1
+
+Set Text to "Brave New Hello World" TX hash:
+0x574aef4a6f10f85da80b7151b943a34f4925ce1aebc920af896bde66afd80d51
+
+Transferred owenership from "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4" to "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2" TX hash:
+0x241ad8d3c06c308387ae021c04c7d136a3ceda99f09ea77395919089cbba9f33
+
+Transferred ownership back to original owner address:
+0x29e017746f2f0b59d89bfc2ea67fa94660d9aa03635a017f7e32c5794b523d1b
+
+Transaction fails when owner is not correct address TX hash:
+0xb9319bdcc4e7e9240a606d938fe0ade31790a48ee5b2efaa1d58d141e8ab6376
